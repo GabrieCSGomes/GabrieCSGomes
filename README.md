@@ -3,7 +3,7 @@
 ## Um pouco sobre mim:
 - 🥳 Tenho 26 anos;
 - 👨‍🎓 Formado no curso de Sistemas de Informação pela UFPA;
-- 👩🏻‍💻 Estudando e focado tecnologias utilizadas em Front End.
+- 👩🏻‍💻 Estudando e focado em tecnologias utilizadas em Front End.
 
 ## Minhas habilidades:
 <div align="center">  
