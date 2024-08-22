@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo!+Sejam+Bem+Vindos(as);Me+Chamo+Gabriel+Gomes)](https://git.io/typing-svg)
 
 ## Um pouco sobre mim:
-- 🥳 Tenho 26 anos;
+- 🥳 Tenho 28 anos;
 - 👨‍🎓 Formado no curso de Sistemas de Informação pela UFPA;
 - 👩🏻‍💻 Estudando e focado em tecnologias utilizadas em Front End.
 
